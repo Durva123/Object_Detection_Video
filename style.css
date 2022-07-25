@@ -1,0 +1,28 @@
+body{
+background-size:cover;
+background-position:center;
+}
+.heading
+{
+font-size:50px;
+font-family:stencil;
+width:100%;
+color:black;
+background-color:rgb(255, 181, 217)
+}
+#status
+{
+font-size: 18px;
+}
+canvas{
+    border:5px aliceblue ridge;
+    
+}
+#number_of_objects{
+   padding-left:30px;
+   padding-right:30px;
+   text-align:left;
+}
+#start{
+    margin-left:20px;
+}
